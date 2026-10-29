@@ -3,9 +3,9 @@
 Frontend di **SpaceB&B**, una piattaforma di affitti brevi tra privati (sul modello di Airbnb) con noleggio auto, esperienze locali e guida alle città.
 Progetto congiunto per gli esami di Ingegneria del Software, Basi di Dati e Ingegneria dei Sistemi Web (Università degli Studi di Ferrara).
 
-Autori: Tommaso Pizzolato (196187), Matteo Tosi (195958)
+Autori: Matteo Tosi (195958), Tommaso Pizzolato (196187)
 
-Il backend è in un repository separato: **[inserire link soggiorna-backend]**
+Il backend è in un repository separato: (https://github.com/teotosi14/soggiorna-backend)
 
 ## Tecnologie
 
